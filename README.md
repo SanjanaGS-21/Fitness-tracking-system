@@ -50,7 +50,7 @@ A modern web-based fitness tracking application that allows users to log workout
 1. Clone the repository:
 ```
 
-git clone [https://github.com/your-username/fitness-tracking-system.git](https://github.com/your-username/fitness-tracking-system.git)
+git clone https://github.com/SanjanaGS-21/Fitness-tracking-system.git
 
 ````
 
@@ -79,14 +79,4 @@ git clone [https://github.com/your-username/fitness-tracking-system.git](https:/
 - Set fitness goals like steps, calories, or weight.
 - View your progress using graphs and reports.
 ````
-
----
-
-
-### 7. **Contributing**
-
-```markdown
-## 🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
-```
 
